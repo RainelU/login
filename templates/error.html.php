@@ -1,0 +1,3 @@
+<div class="div-error" style="width: 100%; display: flex; justify-content: center;">
+	<h1 style="text-align:center;color:white;margin-top:15%;display:inline-block;background-color:rgba(0,0,0,0.50);padding:10px 100px;border-radius:5px;">El email ya está en uso, vuelve y coloca uno diferente <a style="font-size:30px;background-color:#a90fdc;display:block;margin-top:50px;color:white;padding:10px 0px;border-radius:50px;text-decoration:none;" href="./index.php">volver</a></h1>
+</div>
